@@ -7,5 +7,3 @@ brew update
 echo -e "\033[1;32mUpgrading Homebrew...\033[0m"
 
 brew upgrade
-
-echo -e "\033[1;32mInstalling Homebrew Bundle...\033[0m"
