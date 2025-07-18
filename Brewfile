@@ -1,5 +1,7 @@
 cask_args appdir: '/Applications'
 
+brew 'gh'
+brew 'git-lfs'
 brew 'jenv'
 brew 'nodenv'
 brew 'pyenv'
