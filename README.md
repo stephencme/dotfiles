@@ -51,14 +51,13 @@ Not every aspect of setting up a new machine is practical to automate, though so
 
 - Configure core utilities:
   - **1Password**
-  - **Cron**
   - **Google Drive**
   - **iMessage** (iCloud sync, text message forwarding)
+  - **Karabiner-Elements**
   - **Raycast**
   - **Rectangle**
 - Install and configure core utilities not available via Homebrew:
-  - **Arc**
-  - **Flow**
+  - **DisplayBuddy**
 - [Change your computer’s name or local hostname on Mac](https://support.apple.com/lv-lv/guide/mac-help/mchlp2322/mac)
 - [Change the behavior of the modifier keys on Mac](https://support.apple.com/en-by/guide/mac-help/mchlp1011/mac)
 - [Add folders to the sidebar (Customize the Finder toolbars on Mac)](https://support.apple.com/en-by/guide/mac-help/mchlp3011/mac)
@@ -67,11 +66,16 @@ Not every aspect of setting up a new machine is practical to automate, though so
 - [Remove Siri in menu bar](https://support.apple.com/en-by/guide/mac-help/mchl3fd7fc15/mac)
 - [Remove Spotlight in menu bar (What’s in the menu bar on Mac?)](https://support.apple.com/en-by/guide/mac-help/mchlp1446/mac)
 - [Write in another language on your Mac](https://support.apple.com/lv-lv/guide/mac-help/mchlp1406/mac)
+- [Change the behavior of the display on battery](https://support.apple.com/en-md/guide/mac-help/mchlfc3b7879/mac#:~:text=Slightly%20dim%20the%20display%20on%20battery)
 
 ## Resources
 
 - https://dotfiles.github.io
 - [How to write idempotent Bash scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
+
+## TODOs
+
+- Add a script to configure VSCode settings (see: https://anhari.dev/blog/saving-vscode-settings-in-your-dotfiles)
 
 ## Screenshots
 
