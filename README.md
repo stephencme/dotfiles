@@ -33,7 +33,7 @@ Since I generally have this dotfiles project synced to my iCloud Drive, it is us
 You can also clone this repo from GitHub via SSH. If you don't want to keep this project synced with iCloud Drive, I'd suggest using your home directory (`~`):
 
 ```zsh
-git clone git@github.com:syhchen/dotfiles.git
+git clone git@github.com:stephencme/dotfiles.git
 ```
 
 ## Install
@@ -51,7 +51,6 @@ Not every aspect of setting up a new machine is practical to automate, though so
 
 - Configure core utilities:
   - **1Password**
-  - **Google Drive**
   - **iMessage** (iCloud sync, text message forwarding)
   - **Karabiner-Elements**
   - **Raycast**
