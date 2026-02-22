@@ -9,6 +9,7 @@ brew 'rbenv'
 
 cask '1password'
 cask 'android-studio'
+cask 'google-chrome'
 cask 'karabiner-elements'
 cask 'rar'
 cask 'raycast'
